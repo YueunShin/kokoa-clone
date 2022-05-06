@@ -18,12 +18,6 @@
   position: relative;
 }
 
-.status-bar {
-  position: fixed;
-  top: 0;
-  box-sizing: border-box;
-}
-
 .nav__notification {
   background-color: tomato;
   height: 26px;

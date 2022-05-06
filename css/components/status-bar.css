@@ -1,3 +1,10 @@
+.status-bar__container {
+  width: 100%;
+  position: fixed;
+  background-color: #ffffff;
+  z-index: 1;
+}
+
 .status-bar {
   display: flex;
   padding: 5px 3px;
